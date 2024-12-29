@@ -1,4 +1,4 @@
-#!/Users/shubhamgaurav/abhi-pro/diagnose-ai/backend/env/bin/python3
+#!/Users/shubhamgaurav/Desktop/diagnose-ai/diagnose-ai/backend/env/bin/python3
 # -*- coding: utf-8 -*-
 import re
 import sys
